@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "ぼくらの16bit戦争（feat. GUMI）",
+  "base_artist": "sasakure.UK",
+  "createdAt": "2026-03-19T12:58:28.318113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぼくらの16bit戦争 (feat. GUMI) (Remastered)",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/01_ぼくらの16bit戦争_(feat._GUMI)_(Remastered)_sasakure.UK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくらの16bit戦争 (feat. GUMI) [Remastered]",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくらの16bit戦争_(feat._GUMI)_[Remastered]_sasakure.UK.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ぼくらの16bit戦争（feat. GUMI）",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/localdb_01_ぼくらの16bit戦争(feat._GUMI)_sasakure.UK.txt",
+      "repo_name": "dHa5U03ebak"
+    }
+  ]
+}
